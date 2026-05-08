@@ -1,4 +1,3 @@
-import { func } from "prop-types";
 import { useEffect } from "react";
 import { useParams } from "react-router-dom";
 function Detail() {
